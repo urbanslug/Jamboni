@@ -1,0 +1,126 @@
+body
+{
+	background-color: #ccc;
+}
+
+
+h1
+{
+	color: #fff;
+	font-family: loma;		
+}
+
+
+#top
+{
+	color: #fff;
+	font-family: sawasdee;
+	font-size: 90%;
+	float: right;
+}
+
+
+#gallery
+{
+	font-family: sans-serif;
+	color: rgba(0,0,0,0.5);
+	background: #C69FDB;
+	width: 500px;
+	margin: 0 auto;
+}
+
+#wrapper
+{
+	width: 930px;
+	margin: 0 auto;
+
+}
+
+article
+{
+	font-family: sans-serif;
+	color:rgba(0,0,0,0.5);
+	margin-top: 7px;
+	background: #C69FDB;
+	padding: 5px;
+	border-radius: 15px;
+	text-align: left;
+	width: 930px;
+	margin 0 auto;
+}
+
+#changable
+{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+
+#globalheader 
+{
+
+	margin-top: -1%;
+	width: 100%;
+	padding: 1%;
+	background: #C69FDB;
+	margin-left: -1%;
+}
+
+#globalheader input
+{
+
+	float: right;
+}
+
+#globalheader a
+{
+	padding: 1.1%;
+}
+
+#globalheader a:hover
+{
+	background-color: #ccc;
+}
+
+#footer
+{
+	background-color: #999;
+	padding: 5%;
+	text-align: center;
+	margin-left: -1%;
+	margin-right: -1%;
+	margin-bottom: -1%;
+	margin-top: 7px;
+}
+
+#footer a
+{
+	padding: 20px;
+}
+
+
+a
+{
+	font-family: arial;
+	text-decoration:none;
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
+
+#footer a:hover
+
+{
+	text-decoration: underline;
+
+}
+
+
+/* css to format the images.*/
+
+#gallery ul
+{
+	list-style: none;
+}
